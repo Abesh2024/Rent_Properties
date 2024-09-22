@@ -1,4 +1,3 @@
-# Houses
+*Hosted Link of the Project -- https://rent-properties-omega.vercel.app/*
 
-![Screenshot (636)](https://github.com/user-attachments/assets/c2b8233f-e2b7-474d-aa96-677dec21e8dd)
-![Screenshot (637)](https://github.com/user-attachments/assets/323f9f0c-3978-4547-99bd-651eed47e213)
+![Screenshot 2024-09-23 000608](https://github.com/user-attachments/assets/f82883a5-930d-41bf-8d91-6d32427e5a33)
